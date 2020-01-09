@@ -1,0 +1,12 @@
+E:\projects\6th sem\KID++\KID++\bin\Debug\KID++.exe.config
+E:\projects\6th sem\KID++\KID++\bin\Debug\KID++.exe
+E:\projects\6th sem\KID++\KID++\bin\Debug\KID++.pdb
+E:\projects\6th sem\KID++\KID++\obj\Debug\KID++.csprojResolveAssemblyReference.cache
+E:\projects\6th sem\KID++\KID++\obj\Debug\KID__.Form1.resources
+E:\projects\6th sem\KID++\KID++\obj\Debug\KID__.FUN.resources
+E:\projects\6th sem\KID++\KID++\obj\Debug\KID__.Properties.Resources.resources
+E:\projects\6th sem\KID++\KID++\obj\Debug\KID++.csproj.GenerateResource.Cache
+E:\projects\6th sem\KID++\KID++\obj\Debug\KID++.exe
+E:\projects\6th sem\KID++\KID++\obj\Debug\KID++.pdb
+E:\projects\6th sem\KID++\KID++\obj\Debug\KID__.LEARN.resources
+E:\projects\6th sem\KID++\KID++\obj\Debug\KID__.forloop.resources
